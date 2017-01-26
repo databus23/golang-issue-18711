@@ -23,8 +23,8 @@
 		{
 			"checksumSHA1": "ALID2qEiXlaj7SVGShqPTuMYRb0=",
 			"path": "golang.org/x/crypto/ssh",
-			"revision": "41d678d1df78cd0410143162dff954e6dc09300f",
-			"revisionTime": "2017-01-16T12:25:54Z"
+			"revision": "854ae91cdcbf914b499b1d7641d07859f3653481",
+			"revisionTime": "2017-01-26T19:47:58Z"
 		}
 	],
 	"rootPath": "github.com/databus23/ssh"
