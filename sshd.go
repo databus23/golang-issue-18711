@@ -1,14 +1,5 @@
-// A small SSH daemon providing bash sessions
+// A repro for https://github.com/golang/go/issues/18711
 //
-// Server:
-// cd my/new/dir/
-// #generate server keypair
-// ssh-keygen -t rsa
-// go get -v .
-// go run sshd.go
-//
-// Client:
-// ssh foo@localhost -p 2200 #pass=bar
 
 package main
 
